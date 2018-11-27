@@ -1,0 +1,65 @@
+.green-cut{
+	background-color: #17202f !important;
+}
+.grey-title{
+	color:white;
+}
+.green-title{
+		color:#35b729;
+}
+.colorwhite{
+        color: white !important;
+    }
+.block{
+	width: 100% !important;
+}
+.box{
+	height: 300px !important;
+	color:white;
+	text-align: center !important;
+	font-size: 3em;
+
+}
+#diversion{
+	height: 300px;
+}
+.greens{
+	background-color: #154531;
+
+}
+.blues{
+	background-color: #181945;
+}
+.reds{
+	background-color: #8C1D1D;
+}
+.footer-bc{
+	background-color: #212121;
+}
+.footer-color{
+	color: #1c9e83;
+}
+.intro{
+
+		width: 100%;
+		height: 30%;
+		background-color: #17202f;
+
+	}
+	.intro h1 {
+		color:white;
+		margin: 0;
+	}
+	.separate-5{
+		padding-top:5%;
+	}
+.color-blue-1{
+	background-color: #0E2B45!important;
+}
+.color-green-1{
+	background-color: #104F32 !important;
+}
+.letra-instruccion{
+
+	font-size: 1.7em;
+}
