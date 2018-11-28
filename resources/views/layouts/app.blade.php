@@ -80,7 +80,7 @@
 
 
 <ul class="sidenav" id="mobile-demo">
-    <li><a href="/">Inicio</a></li>
+    <li><a href="{{route('home')}}">Tiempo</a></li>
      <li><a href="{{route('mapa')}}">Mapa</a></li>
     <li><a href="{{route('como_funciona')}}">¿Como funciona?</a></li>
     <li><a href="{{route('ventajas')}}">Ventajas</a></li>
